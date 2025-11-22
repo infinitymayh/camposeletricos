@@ -1,4 +1,5 @@
 # Simulações Computacionais de Potenciais e Campos Elétricos
+*Feito por Infinitymayh (Mayara Soares)*
 
 Este repositório reúne simulações numéricas voltadas ao cálculo de potenciais e campos elétricos em diferentes configurações físicas. Os problemas implementados correspondem aos exercícios **5.1 a 5.10** do livro *Computational Physics* (Giordano & Nakanishi), utilizando métodos iterativos para resolver numericamente as equações de **Laplace** e **Poisson**.
 
